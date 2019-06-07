@@ -84,4 +84,6 @@ Initial Release March, 2019
 * L4T 32.1.0 (JetPack 4.2)
 * Tested on Jetson Nano
 
+<h2>Liscence</h2>
+Community Liscence
 
