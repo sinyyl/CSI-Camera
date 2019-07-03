@@ -85,4 +85,4 @@ Initial Release March, 2019
 * Tested on Jetson Nano
 
 <h2>Liscence</h2>
-This repo is covered under[License](./LICENSE)
+This repo is covered under [License](./LICENSE)
